@@ -108,3 +108,7 @@ Export the data and graphs as a report in PDF or PNG format.
 🚀 Conclusion:
 This project successfully showcases how to combine API data fetching with clean and effective data visualization to build an informative weather forecasting dashboard. It is a practical example of how data science and web integration come together in modern applications.
 
+# OUTPUT
+
+[task1 outpout.docx](https://github.com/user-attachments/files/20877423/task1.outpout.docx)
+
