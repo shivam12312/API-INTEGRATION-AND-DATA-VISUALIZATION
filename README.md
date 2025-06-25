@@ -110,5 +110,5 @@ This project successfully showcases how to combine API data fetching with clean 
 
 # OUTPUT
 
-[task1 outpout.docx](https://github.com/user-attachments/files/20877423/task1.outpout.docx)
+![Image](https://github.com/user-attachments/assets/a7d31778-cfcc-484b-9317-d9072a9a4969)
 
